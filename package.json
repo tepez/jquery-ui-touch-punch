@@ -1,0 +1,8 @@
+{
+  "name": "@tepez/jqueryui-touch-punch",
+  "version": "0.2.3",
+  "description": "A duck punch for adding touch events to jQuery UI",
+  "license": "MIT",
+  "author": "Dave Furfero",
+  "main": "jquery.ui.touch-punch.min.js"
+}
